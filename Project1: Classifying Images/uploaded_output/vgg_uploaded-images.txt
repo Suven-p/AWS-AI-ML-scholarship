@@ -1,0 +1,21 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+ ** Displaying results for vgg architechture ** 
+Number Of Images: 4
+Number Of Dogs Img: 2
+Number Of Notdogs Img: 2
+Number Of Match: 2
+Number Of Correct Dogs: 2
+Number Of Correct Notdogs: 2
+Number Of Correct Breed: 0
+% Correct Notdogs: 100.0%
+% Correct Dogs: 100.0%
+% Correct Breed: 0.0%
+% Match: 50.0%
+Misclassified breeds
+Image: Dog_01.jpg Classifier Labels: afghan hound, afghan
+Image: Dog_02.jpg Classifier Labels: afghan hound, afghan
+
+** Total Elapsed Runtime: 0:0:0

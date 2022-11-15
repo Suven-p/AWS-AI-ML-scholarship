@@ -1,0 +1,22 @@
+Command Line Arguments:
+     dir = pet_images/ 
+    arch = vgg 
+ dogfile = dognames.txt
+PCT MATCH  35 <class 'int'>
+ ** Displaying results for vgg architechture ** 
+Number Of Images: 40
+Number Of Dogs Img: 30
+Number Of Notdogs Img: 10
+Number Of Match: 35
+Number Of Correct Dogs: 30
+Number Of Correct Notdogs: 10
+Number Of Correct Breed: 28
+% Correct Notdogs: 100.0%
+% Correct Dogs: 100.0%
+% Correct Breed: 93.33333333333333%
+% Match: 87.5%
+Misclassified breeds
+Image: Beagle_01170.jpg Classifier Labels: walker hound, walker foxhound
+Image: Great_pyrenees_05367.jpg Classifier Labels: kuvasz
+
+** Total Elapsed Runtime: 0:0:10

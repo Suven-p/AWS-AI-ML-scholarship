@@ -1,0 +1,25 @@
+Command Line Arguments:
+     dir = pet_images/ 
+    arch = resnet 
+ dogfile = dognames.txt
+PCT MATCH  33 <class 'int'>
+ ** Displaying results for resnet architechture ** 
+Number Of Images: 40
+Number Of Dogs Img: 30
+Number Of Notdogs Img: 10
+Number Of Match: 33
+Number Of Correct Dogs: 30
+Number Of Correct Notdogs: 9
+Number Of Correct Breed: 27
+% Correct Notdogs: 90.0%
+% Correct Dogs: 100.0%
+% Correct Breed: 90.0%
+% Match: 82.5%
+Misclassified dogs
+Image: cat_01.jpg Classifier Labels: norwegian elkhound, elkhound
+Misclassified breeds
+Image: Golden_retriever_05182.jpg Classifier Labels: leonberg
+Image: Beagle_01170.jpg Classifier Labels: walker hound, walker foxhound
+Image: Great_pyrenees_05367.jpg Classifier Labels: kuvasz
+
+** Total Elapsed Runtime: 0:0:18
